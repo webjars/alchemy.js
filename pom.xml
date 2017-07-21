@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>alchemy.js</artifactId>
-    <version>0.4.2</version>
+    <version>0.4.3-SNAPSHOT</version>
     <name>Alchemy.js</name>
     <description>WebJar for Alchemy.js</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/alchemy.js</url>
         <connection>scm:git:https://github.com/webjars/alchemy.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/alchemy.js.git</developerConnection>
-        <tag>alchemy.js-0.4.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
